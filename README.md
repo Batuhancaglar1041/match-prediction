@@ -1,4 +1,7 @@
 Dosya yolları göreli değildir . Kendi bilgisayarınıza clone ettikten sonra ek bir ayar yapmanız gerekiyor.
+LARGE FILES:
+https://drive.google.com/drive/folders/1v3KOSr1bK37PVgZn5-tPbN3JlYFvJP3Q?usp=sharing
+
 
 proje/
 │
